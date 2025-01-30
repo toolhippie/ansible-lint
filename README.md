@@ -1,6 +1,6 @@
 # ansible-lint
 
-[![Docker Build](https://github.com/toolhippie/ansible-lint/workflows/docker/badge.svg)](https://github.com/toolhippie/ansible-lint/actions?query=workflow%3Adocker) [![GitHub Repo](https://img.shields.io/badge/github-repo-yellowgreen)](https://github.com/toolhippie/ansible-lint) [![Upstream Repo](https://img.shields.io/badge/upstream-repo-yellow)](https://github.com/thegeeklab/ansible-lint)
+[![Docker Build](https://github.com/toolhippie/ansible-lint/workflows/docker/badge.svg)](https://github.com/toolhippie/ansible-lint/actions?query=workflow%3Adocker) [![GitHub Repo](https://img.shields.io/badge/github-repo-yellowgreen)](https://github.com/toolhippie/ansible-lint) [![Upstream Repo](https://img.shields.io/badge/upstream-repo-yellow)](https://github.com/ansible/ansible-lint)
 
 All these images are used for various scriptings, it's possible that any of
 these tools are updated randomly
