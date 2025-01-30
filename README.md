@@ -26,7 +26,7 @@ MIT
 ## Copyright
 
 ```console
-Copyright (c) 2019 Thomas Boerger <http://www.webhippie.de>
+Copyright (c) 2025 Thomas Boerger <http://www.webhippie.de>
 ```
 
 [dockerhub]: https://hub.docker.com/r/toolhippie/ansible-lint/tags/
