@@ -4,10 +4,10 @@ ENV PY_COLORS=1
 ENV ANSIBLE_FORCE_COLOR=true
 
 # renovate: datasource=pypi depName=ansible-lint
-ENV ANSIBLE_LINT_VERSION=25.5.0
+ENV ANSIBLE_LINT_VERSION=25.6.0
 
 # renovate: datasource=pypi depName=ansible
-ENV ANSIBLE_CORE_VERSION=11.6.0
+ENV ANSIBLE_CORE_VERSION=11.7.0
 
 RUN apk update && \
   apk upgrade && \
